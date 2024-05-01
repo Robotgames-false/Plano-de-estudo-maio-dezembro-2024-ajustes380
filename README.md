@@ -2,7 +2,9 @@
 
 Bem-vindo ao meu plano de estudos para o período de maio a dezembro de 2024! Este plano foi criado para me ajudar a alcançar meus objetivos em várias áreas de desenvolvimento de software, robótica, automação, e mais. Aqui está uma visão geral do que vou estudar e como pretendo organizar meu tempo.
 
+
 [Conselhos e Sugestões para um Estudo Eficiente](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/estudoEficiente.md)
+[Tópicos Maio/2024](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/topicosMaio.md)
 
 # Disciplinas
 
