@@ -4,6 +4,7 @@ Bem-vindo ao meu plano de estudos para o período de maio a dezembro de 2024! Es
 
 
 [Conselhos e Sugestões para um Estudo Eficiente](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/estudoEficiente.md)
+
 [Tópicos Maio/2024](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/topicosMaio.md)
 
 # Disciplinas
