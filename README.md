@@ -4,7 +4,7 @@ Bem-vindo ao meu plano de estudos para o período de maio a dezembro de 2024! Es
 
 [Conselhos e Sugestões para um Estudo Eficiente](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/estudoEficiente.md)
 
-# 📚 Meu Plano de Estudos - Disciplinas
+# Disciplinas
 
 Aqui está uma lista das disciplinas que estou estudando como parte do meu plano de estudos. Este repositório documenta minha jornada de aprendizado, projetos, e progresso ao longo do tempo.
 
