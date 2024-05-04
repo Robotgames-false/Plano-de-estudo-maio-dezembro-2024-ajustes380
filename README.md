@@ -81,7 +81,8 @@ Meu objetivo é alcançar um alto nível de competência em cada uma dessas disc
 
 
 ### 📅 Sábado
-- **Análise o seu progresso** Dia de revisão.
+- **Análise o seu progresso**
+- Dia de revisão.
 
 ### 📅 Domingo
 - **Dia de Descanso ou Revisão** ⏸️
