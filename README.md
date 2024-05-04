@@ -7,7 +7,7 @@ Bem-vindo ao meu plano de estudos para o período de maio a dezembro de 2024! Es
 
 [Generate ChatGPT](https://chat.openai.com/share/d6512e7d-835a-4e99-8f75-28a4615861ce)
 
-[Tópicos Maio/2024](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/topicosMaio.md)
+[Tópicos Geral](https://github.com/elisioMassaqui/Plano-de-estudo-maio-dezembro-2024/blob/main/topicosMaio.md)
 
 # Disciplinas
 
