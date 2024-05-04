@@ -44,43 +44,44 @@ Aqui está uma lista das disciplinas que estou estudando como parte do meu plano
 ## 🚀 Objetivos do Plano de Estudos
 Meu objetivo é alcançar um alto nível de competência em cada uma dessas disciplinas. Compartilho meu progresso e projetos para inspirar e ajudar outras pessoas em sua jornada de aprendizado.
 
-## 🗓️ Horário Semanal (11h - 16h)
+# 🗓️ Plano de Estudos - Horário Semanal (Segunda a Sexta, 11h - 16h)
 
-### 📅 Segunda-feira
-- **11:00 - 12:00:** Estruturas de Controle e Automação na Unity para Robótica 🤖
-- **12:15 - 13:15:** Python para Bots de Discord e Aplicações Open Source 🐍
-- **13:30 - 14:30:** Desenvolvimento de Backend em Flutter com MongoDB 📱
-- **15:00 - 16:00:** Blender para Modelagem e Animação 3D 🛠️
-
-### 📅 Terça-feira
-- **11:00 - 12:00:** Desenvolvimento Web com Node.js 🌐
-- **12:15 - 13:15:** Unreal Engine 4 com C 🎮
-- **13:30 - 14:30:** Certificações Unity Learn 📜
-- **15:00 - 16:00:** Desenvolvimento de Backend em Flutter com MongoDB 📱
-
-### 📅 Quarta-feira
-- **11:00 - 12:00:** Estruturas de Controle e Automação na Unity para Robótica 🤖
-- **12:15 - 13:15:** Python para Automação e Projetos Open Source 🐍
-- **13:30 - 14:30:** Desenvolvimento Web com Node.js 🌐
-- **15:00 - 16:00:** Blender para Modelagem e Animação 3D 🛠️
-
-### 📅 Quinta-feira
-- **11:00 - 12:00:** Unreal Engine 4 com C 🎮
-- **12:15 - 13:15:** Desenvolvimento de Backend em Flutter com MongoDB 📱
-- **13:30 - 14:30:** Python para Bots de Discord 🐍
-- **15:00 - 16:00:** Certificações Unity Learn 📜
-
-### 📅 Sexta-feira
-- **11:00 - 12:00:** Estruturas de Controle e Automação na Unity para Robótica 🤖
+## Segunda-feira
+- **11:00 - 12:00:** Python para Bots de Discord 🐍
 - **12:15 - 13:15:** Desenvolvimento Web com Node.js 🌐
-- **13:30 - 14:30:** Python para Robótica 🐍
-- **15:00 - 16:00:** Blender para Modelagem e Animação 3D 🛠️
+- **13:30 - 14:30:** Blender para Modelagem e Animação 3D 🛠️
+
+## Terça-feira
+- **11:00 - 12:00:** Linguagem C para Desenvolvimento em Unreal Engine 🎮
+- **12:15 - 13:15:** Unity para Desenvolvimento de Software de Robótica 🤖
+- **13:30 - 14:30:** Flutter com MongoDB 📱
+
+## Quarta-feira
+- **11:00 - 12:00:** Linguagem C para Desenvolvimento em Unreal Engine 🎮
+- **12:15 - 13:15:** Certificações Unity Learn 📜
+- **13:30 - 14:30:** Desenvolvimento Web com Node.js 🌐
+
+## Quinta-feira
+- **11:00 - 12:00:** Linguagem C para Desenvolvimento em Unreal Engine 🎮
+- **12:15 - 13:15:** Python para Automação e Integração de Hardware 🐍
+- **13:30 - 14:30:** Desenvolvimento de Backend em Flutter com MongoDB 📱
+
+## Sexta-feira
+- **11:00 - 12:00:** Unity para Desenvolvimento de Software de Robótica 🤖
+- **12:15 - 13:15:** Desenvolvimento Web com Node.js 🌐
+- **13:30 - 14:30:** Blender para Modelagem e Animação 3D 🛠️
+
+## 📅 Finais de Semana
+- **Sem estudos**. Use esse tempo para descansar, relaxar e aproveitar atividades de lazer.
+
+## ✨ Dicas para um Estudo Eficiente
+- **Pausas Regulares**: Faça pausas de 5 a 10 minutos entre as disciplinas para manter a produtividade.
+- **Ambiente de Estudo**: Tenha um espaço dedicado para estudar, livre de distrações.
+- **Flexibilidade**: Se necessário, ajuste o plano para acomodar mudanças ou emergências.
+
 
 ### 📅 Sábado
-- **11:00 - 12:00:** Unreal Engine 4 com C 🎮
-- **12:15 - 13:15:** Certificações Unity Learn 📜
-- **13:30 - 14:30:** Projetos Open Source no GitHub 💻
-- **15:00 - 16:00:** Desenvolvimento de Backend em Flutter com MongoDB 📱
+- **Análise o seu progresso** Dia de revisão.
 
 ### 📅 Domingo
 - **Dia de Descanso ou Revisão** ⏸️
