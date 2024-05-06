@@ -24,7 +24,7 @@ Aqui está uma lista das disciplinas que estou estudando como parte do meu plano
    - Criação de aplicativos móveis com Flutter, usando MongoDB para backend e autenticação de usuários.
    
 4. **Linguagem C para Desenvolvimento em Unreal Engine**
-   - Uso da linguagem C para desenvolvimento de jogos no Unreal Engine e otimização de memória.
+   - Uso da linguagem C para desenvolvimento de jogose e simulação de software como robótica no Unreal Engine e otimização de memória.
    
 5. **Blender para Modelagem e Animação 3D**
    - Técnicas de modelagem 3D, animação e renderização usando Blender.
