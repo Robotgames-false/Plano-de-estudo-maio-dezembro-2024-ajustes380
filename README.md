@@ -17,8 +17,8 @@ Aqui está uma lista das disciplinas que estou estudando como parte do meu plano
 1. **Unity para Desenvolvimento de Software de Robótica** 
    - Estruturas de controle, automação, e simulação de robôs em ambientes virtuais.
    
-2. **Python para Bots e Automação**
-   - Desenvolvimento de bots para Discord, automação, e integração com hardware.
+2. **Python para Robótica, Bots e Automação**
+   - Desenvolvimento de Bots, Robotic Software, IA e automação, e integração com hardware.
    
 3. **Flutter com MongoDB para Desenvolvimento de Aplicativos Móveis**
    - Criação de aplicativos móveis com Flutter, usando MongoDB para backend e autenticação de usuários.
