@@ -29,7 +29,7 @@ Bem-vindo ao meu plano de estudos para o período de maio a dezembro de 2024! Es
 
 Meu objetivo é alcançar um alto nível de competência em cada uma dessas disciplinas. Compartilho meu progresso e projetos para inspirar e ajudar outras pessoas em sua jornada de aprendizado.
 
-# 🗓️ Plano de Estudos - Horário Semanal (Segunda a Sexta, 11h - 16h)
+## 🗓️ Plano de Estudos - Horário Semanal (Segunda a Sexta, 11h - 16h)
 
 ## Segunda-feira
 
